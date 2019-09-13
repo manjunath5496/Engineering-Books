@@ -164,16 +164,16 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(99).pdf" style="text-decoration:none;">Fundamentals of Electrical Engineering I </a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(100).pdf" style="text-decoration:none;">Engineering Ethics: Concepts and Cases</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(101).pdf" style="text-decoration:none;">Performance-based Plastic Design Of Seismic Resistant Special Truss Moment Frames </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(45).pdf" style="text-decoration:none;">Modern Control Engineering</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(101).pdf" style="text-decoration:none;">Solution Manuals Of Advanced Engineering Mathematics </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(103).pdf" style="text-decoration:none;">Essentials of Chemical Reaction Engineering</a></b></li>
                             
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(46).pdf" style="text-decoration:none;">Object-Oriented and Classical Software Engineering</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(104).pdf" style="text-decoration:none;">Chemical Engineering: Solutions To The Problems In Chemical Engineering Volume 1</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(47).pdf" style="text-decoration:none;">Engineering Surveying</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(105).pdf" style="text-decoration:none;">The Engineer: Follow Elon Musk on a journey from South Africa to Mars</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(48).pdf" style="text-decoration:none;">Audio Engineering </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(106).pdf" style="text-decoration:none;">Environmental Engineering Dictionary and Directory </a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(49).pdf" style="text-decoration:none;">ANSYS Mechanical APDL Structural Analysis Guide</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(107).pdf" style="text-decoration:none;">ANSYS Mechanical APDL Structural Analysis Guide</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(50).pdf" style="text-decoration:none;">Engineering Thermodynamics </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(51).pdf" style="text-decoration:none;">Chemical Thermodynamics of Materials: Macroscopic and Microscopic Aspects </a></b></li>
