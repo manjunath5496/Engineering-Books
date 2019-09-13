@@ -145,26 +145,26 @@
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(87).pdf" style="text-decoration:none;">Advanced Natural Gas Engineering </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(30).pdf" style="text-decoration:none;">Fundamentals of Biochemical Engineering</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(88).pdf" style="text-decoration:none;">Power Plant Engineering</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(31).pdf" style="text-decoration:none;">Advanced Unsaturated Soil Mechanics and Engineering</a></b></li> 
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(32).pdf" style="text-decoration:none;">PLC-based Process Control Engineering Guide</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(90).pdf" style="text-decoration:none;">Engineering Maintenance: A Modern Approach</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(91).pdf" style="text-decoration:none;">Financial Engineering Principles: A Unified Theory for Financial Product Analysis and Valuation</a></b></li> 
 
                    
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(34).pdf" style="text-decoration:none;">Machine Drawing</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(92).pdf" style="text-decoration:none;">Flight Dynamics Principles</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(35).pdf" style="text-decoration:none;">Architectural and Engineering Design Standards</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(93).pdf" style="text-decoration:none;">Fundamentals of Probability and Statistics for Engineers</a></b></li> 
   
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(37).pdf" style="text-decoration:none;">Fundamentals Of Reservoir Engineering</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(38).pdf" style="text-decoration:none;">Geotechnical Engineering</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(39).pdf" style="text-decoration:none;">Practical MATLAB: Applications For Engineers</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(40).pdf" style="text-decoration:none;">Introduction to SolidWorks</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(41).pdf" style="text-decoration:none;">Handbook of Networked and Embedded Control Systems</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(42).pdf" style="text-decoration:none;">Understanding Engineering Mathematics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(94).pdf" style="text-decoration:none;">Fundamentals of Thermodynamics</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(95).pdf" style="text-decoration:none;">Chemical Engineering Thermodynamics II</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(96).pdf" style="text-decoration:none;">Thermodynamics Demystified</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(97).pdf" style="text-decoration:none;">Mechanical Engineering Principles</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(98).pdf" style="text-decoration:none;">Lecture Notes: Structural Concepts and Systems for Architects</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(99).pdf" style="text-decoration:none;">Fundamentals of Electrical Engineering I </a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(43).pdf" style="text-decoration:none;">Principles Of Bioseparations Engineering</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(44).pdf" style="text-decoration:none;">Performance-based Plastic Design Of Seismic Resistant Special Truss Moment Frames </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(100).pdf" style="text-decoration:none;">Engineering Ethics: Concepts and Cases</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(101).pdf" style="text-decoration:none;">Performance-based Plastic Design Of Seismic Resistant Special Truss Moment Frames </a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(45).pdf" style="text-decoration:none;">Modern Control Engineering</a></b></li>
                             
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(46).pdf" style="text-decoration:none;">Object-Oriented and Classical Software Engineering</a></b></li>
