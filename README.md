@@ -173,24 +173,9 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(106).pdf" style="text-decoration:none;">Environmental Engineering Dictionary and Directory </a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(107).pdf" style="text-decoration:none;">ANSYS Mechanical APDL Structural Analysis Guide</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(50).pdf" style="text-decoration:none;">Engineering Thermodynamics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(107).pdf" style="text-decoration:none;">Fundamentals of Chemical Engineering Thermodynamics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(108).pdf" style="text-decoration:none;">Software Engineering: Theory and Practice </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(51).pdf" style="text-decoration:none;">Chemical Thermodynamics of Materials: Macroscopic and Microscopic Aspects </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(52).pdf" style="text-decoration:none;">Physics and Engineering of Radiation Detection</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(53).pdf" style="text-decoration:none;">Advanced Methods of Structural Analysis</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(54).pdf" style="text-decoration:none;">A Guide to Physics Problems: Part 2: Thermodynamics, Statistical Physics, and Quantum Mechanics </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(55).pdf" style="text-decoration:none;">Engineering Analysis with SolidWorks Simulation 2011  </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(56).pdf" style="text-decoration:none;">Hysys: An Introduction to Chemical Engineering Simulation</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(57).pdf" style="text-decoration:none;">Basic Engineering Mathematics  </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(58).pdf" style="text-decoration:none;">Piping Materials: selection and applications  </a></b></li>
 
 
 </ul>
