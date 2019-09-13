@@ -190,8 +190,13 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(89).pdf" style="text-decoration:none;">Engineering Fundamentals of the Internal Combustion Engine </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(109).pdf" style="text-decoration:none;">Soil-structure interaction: The real behaviour of structures</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(110).pdf" style="text-decoration:none;">Basic Civil Engineering </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(111).pdf" style="text-decoration:none;">Introduction to Engineering for Electrical and Computer Engineering Students </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(112).pdf" style="text-decoration:none;">Plumbing Engineering Design Handbook </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(113).pdf" style="text-decoration:none;">Engineering Geology </a></b></li>
 
 </ul>
