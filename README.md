@@ -110,40 +110,40 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(66).pdf" style="text-decoration:none;"> Object-Oriented Software Engineering: Practical software development using UML and Java </a></b></li>
                               
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(10).pdf" style="text-decoration:none;">NASA Systems Engineering Handbook </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(11).pdf" style="text-decoration:none;">Modeling Tools for Environmental Engineers and Scientists</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(12).pdf" style="text-decoration:none;">Aquaculture Engineering</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(13).pdf" style="text-decoration:none;">Engineering rock mechanics: part 2</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(67).pdf" style="text-decoration:none;">Learning RSLogix 5000 Programming </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(68).pdf" style="text-decoration:none;">Engineering Optimization</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(69).pdf" style="text-decoration:none;">High Voltage Engineering</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(70).pdf" style="text-decoration:none;">Groundwork and Civil Engineering</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(14).pdf" style="text-decoration:none;">Digital Logic And Computer Design</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(15).pdf" style="text-decoration:none;">Solutions Manuals - Elements Of Chemical Reaction Engineering</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(71).pdf" style="text-decoration:none;">Highway Engineering</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(72).pdf" style="text-decoration:none;">ANSYS Mechanical APDL Basic Analysis Guide</a></b></li>
 
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(16).pdf" style="text-decoration:none;">Environmental engineering</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(73).pdf" style="text-decoration:none;">Software Engineering: Principles and Practice</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(17).pdf" style="text-decoration:none;">An Introduction to Mechanical Engineering</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(74).pdf" style="text-decoration:none;">Statistical Thermodynamics: Fundamentals and Applications</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(18).pdf" style="text-decoration:none;">Game Engine Architecture</a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(19).pdf" style="text-decoration:none;">Liquid Explosives</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(75).pdf" style="text-decoration:none;">Digital Control Engineering: Analysis and Design</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(77).pdf" style="text-decoration:none;">Civil Engineering Formulas</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(20).pdf" style="text-decoration:none;">Pile Design and Construction Practice </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(78).pdf" style="text-decoration:none;">Risk and Safety in Civil Engineering </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(21).pdf" style="text-decoration:none;">Fundamentals of Materials Science and Engineering: An Interactive e Text</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(22).pdf" style="text-decoration:none;">Mathematical And Numerical Modeling In Geotechnical Engineering</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(79).pdf" style="text-decoration:none;">Numerical Methods for Chemical Engineering</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(80).pdf" style="text-decoration:none;">Handbook of Electrical Engineering</a></b></li> 
  
  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(24).pdf" style="text-decoration:none;">Bridge to Abstract Mathematics: Mathematical Proof and Structures</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(81).pdf" style="text-decoration:none;">Computer Aided Engineering Design</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(25).pdf" style="text-decoration:none;">Autodesk 3ds Max: Animation Tutorials</a></b></li>                              
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(26).pdf" style="text-decoration:none;">Mechanical Engineering Drawing Workshop</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(27).pdf" style="text-decoration:none;">Engineering Economy</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(82).pdf" style="text-decoration:none;">Electric Power Engineering Handbook</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(83).pdf" style="text-decoration:none;">Control Engineering</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(84).pdf" style="text-decoration:none;">AutoCAD LT 2011: Customization Guide</a></b></li>
    
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(28).pdf" style="text-decoration:none;">Reversing: Secrets of Reverse Engineering </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(85).pdf" style="text-decoration:none;">Engineering Design with SOLIDWORKS 2016 and Video Instruction </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(29).pdf" style="text-decoration:none;">Hydraulic Structures </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(87).pdf" style="text-decoration:none;">Advanced Natural Gas Engineering </a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(30).pdf" style="text-decoration:none;">Fundamentals of Biochemical Engineering</a></b></li>
  
