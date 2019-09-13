@@ -177,5 +177,21 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(108).pdf" style="text-decoration:none;">Software Engineering: Theory and Practice </a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(9).pdf" style="text-decoration:none;">Textbook of Engineering Drawing</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(36).pdf" style="text-decoration:none;">The Hitchhiker's Guide to Python: Best Practices for Development</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(86).pdf" style="text-decoration:none;">So, You Wanna Be an Embedded Engineer </a></b></li>
+                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(102).pdf" style="text-decoration:none;">Basic Electronics for Scientists and Engineers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(23).pdf" style="text-decoration:none;">Compiler Building Tutorial </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Engineering-Books/blob/master/enb(33).pdf" style="text-decoration:none;">The Little Book of Semaphores </a></b></li>
+
+
+
+
+
+
 
 </ul>
