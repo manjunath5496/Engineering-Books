@@ -1,5 +1,42 @@
-
-
+<table class="vertical-navbox nowraplinks">
+<tbody>
+<tr>
+<th><a class="mw-selflink selflink">Engineering</a></th>
+</tr>
+<tr>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="History of engineering" href="https://en.wikipedia.org/wiki/History_of_engineering">History</a></li>
+<li><a title="Outline of engineering" href="https://en.wikipedia.org/wiki/Outline_of_engineering">Outline</a></li>
+<li><a title="Glossary of engineering" href="https://en.wikipedia.org/wiki/Glossary_of_engineering">Glossary</a></li>
+<li><a title="Category:Engineering" href="https://en.wikipedia.org/wiki/Category:Engineering">Category</a></li>
+<li><a title="Portal:Engineering" href="https://en.wikipedia.org/wiki/Portal:Engineering">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="thumb tright">&nbsp;</div>
+<div class="thumb tright">
+<div class="thumbinner"><a class="image" href="MarsInSightLander.jpg"><img class="thumbimage" src="MarsInSightLander.jpg" srcset="MarsInSightLander.jpg" alt="" width="250" height="167" data-file-width="3600" data-file-height="2400" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+The&nbsp;<em><a title="InSight" href="https://en.wikipedia.org/wiki/InSight">InSight</a></em>&nbsp;lander with solar panels deployed in a cleanroom</div>
+<div class="thumbcaption">&nbsp;</div>
+<div class="thumbcaption">&nbsp;</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner"><a class="image" href="Maquina_vapor_Watt_ETSIIM.jpg"><img class="thumbimage" src="Maquina_vapor_Watt_ETSIIM.jpg" srcset="Maquina_vapor_Watt_ETSIIM.jpg 2x" alt="" width="253" height="188" data-file-width="1024" data-file-height="760" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+The&nbsp;<a title="Steam engine" href="https://en.wikipedia.org/wiki/Steam_engine">steam engine</a>, the major driver in the&nbsp;<a title="Industrial Revolution" href="https://en.wikipedia.org/wiki/Industrial_Revolution">Industrial Revolution</a>, underscores the importance of engineering in modern history. This&nbsp;<a title="Beam engine" href="https://en.wikipedia.org/wiki/Beam_engine">beam engine</a>&nbsp;is on display in the&nbsp;<a title="Technical University of Madrid" href="https://en.wikipedia.org/wiki/Technical_University_of_Madrid">Technical University of Madrid</a>.</div>
+<div class="thumbcaption">&nbsp;</div>
+</div>
+</div>
+</br>
 <p><strong>Engineering</strong>&nbsp;is the use of&nbsp;<a title="Scientific method" href="https://en.wikipedia.org/wiki/Scientific_method">scientific principles</a>&nbsp;to design and build machines, structures, and other items, including bridges, tunnels, roads, vehicles, and buildings.&nbsp;The discipline of engineering encompasses a broad range of more specialized&nbsp;<a title="List of engineering branches" href="https://en.wikipedia.org/wiki/List_of_engineering_branches">fields of engineering</a>, each with a more specific emphasis on particular areas of&nbsp;<a title="Applied mathematics" href="https://en.wikipedia.org/wiki/Applied_mathematics">applied mathematics</a>,&nbsp;<a title="Applied science" href="https://en.wikipedia.org/wiki/Applied_science">applied science</a>, and types of application. See&nbsp;<a title="Glossary of engineering" href="https://en.wikipedia.org/wiki/Glossary_of_engineering">glossary of engineering</a>.</p>
 <p>The term&nbsp;<em>engineering</em>&nbsp;is derived from the&nbsp;<a title="Latin" href="https://en.wikipedia.org/wiki/Latin">Latin</a>&nbsp;<em>ingenium</em>, meaning "cleverness" and&nbsp;<em>ingeniare</em>, meaning "to contrive, devise".</p>
 </br>
